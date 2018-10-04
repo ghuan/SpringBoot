@@ -1,2 +1,2 @@
 # SpringBoot
-spring boot 例子
+spring boot + mybatis + Extjs6
