@@ -1,4 +1,4 @@
 # SpringBoot
 spring boot + mybatis + Extjs6
 
-![image](https://github.com/ghuan/JournalingApp/blob/master/JournalingApp/11.png)
+![image](https://github.com/ghuan/SpringBoot/blob/master/Dzbl/1.png)
